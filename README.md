@@ -15,3 +15,7 @@ Here's how to italicize *Italicize text* or _Italicize Text_
 ### This is how to insert an image
 
 ![This is a pic of a dog](https://myoctocat.com/assets/images/base-octocat.svg)
+
+### Journal Entries
+
+Visit my [Journal 01](journal/8-26-2025-reading_assignment1.md)
