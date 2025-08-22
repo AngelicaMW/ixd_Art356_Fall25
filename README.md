@@ -18,4 +18,5 @@ Here's how to italicize *Italicize text* or _Italicize Text_
 
 ### Journal Entries
 
-Visit my [Journal 01](journal/8-26-2025-reading_assignment1.md)
+Visit my [Journal 01](Journal/8-26-2025-reading_assignment1.md)
+
