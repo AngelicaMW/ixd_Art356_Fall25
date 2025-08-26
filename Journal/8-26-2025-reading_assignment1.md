@@ -1,7 +1,7 @@
 # Chp 1 of DOET
 
-After listening to Chapter 1 of The Design of Everyday Things by Don Norman, it solidified to me how important the clarity of the design is hesvily reliant on the human experience. How the user feels using the product
-is sometimes an emotional journey and it's what they are going to remember when discussing the product later. If it made them angry, happy, confused, lost, or even motivated. We know we're getting old when the newest
+After listening to Chapter 1 of The Design of Everyday Things by Don Norman, it solidified to me how important the clarity of the design is when its heavily reliant on the human experience. How the user feels using the 
+product is sometimes an emotional journey and it's what they are going to remember when discussing the product later. If it made them angry, happy, confused, lost, or even motivated. We know we're getting old when the newest
 excitable conversation starter is the vacuum that actually sucks versus just rolling over the particles. A designer can create something that could be super helpful but that help is useless if the person using it cannot 
 easily figure out the product. The designer can look at the product they made and know all of its ins and outs, what the color palette means, the thought that went into each shape to differentiate settings. But what of the 
 user? Are they simply an afterthought? Is it the user's fault that they didn't know ahead of time how to try out this new product? No, that is simply
