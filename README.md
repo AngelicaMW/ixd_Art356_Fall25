@@ -16,6 +16,10 @@ Here's how to italicize *Italicize text* or _Italicize Text_
 
 ![This is a pic of a dog](https://myoctocat.com/assets/images/base-octocat.svg)
 
+## In Class Exercises
+
+[Exercises/Bookshelf Randomizer]{Exercises/Bookshelf Randomizer/WORKINGindex.html
+
 ### Journal Entries
 
 Visit my [Journal 01](Journal/8-26-2025-reading_assignment1.md)
