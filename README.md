@@ -18,7 +18,7 @@ Here's how to italicize *Italicize text* or _Italicize Text_
 
 ## In Class Exercises
 
-[Exercises/Bookshelf Randomizer]{Exercises/Bookshelf Randomizer/WORKINGindex.html
+[Exercises/Bookshelf Randomizer]{https://angelicamw.github.io/ixd_Art356_Fall25/Exercises/Bookshelf%20Randomizer/WORKINGindex.html
 
 ### Journal Entries
 
