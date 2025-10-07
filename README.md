@@ -24,3 +24,5 @@ Here's how to italicize *Italicize text* or _Italicize Text_
 
 Visit my [Journal 01](Journal/8-26-2025-reading_assignment1.md)
 
+Visit my [Journal_02](Journal/10-06-2025_Chapter_2)
+
