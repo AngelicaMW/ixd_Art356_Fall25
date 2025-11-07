@@ -19,7 +19,7 @@ Here's how to italicize *Italicize text* or _Italicize Text_
 
 ## Class Projects
 
-
+[https://angelicamw.github.io/ixd_Art356_Fall25/]
 
 
 ## In Class Exercises
